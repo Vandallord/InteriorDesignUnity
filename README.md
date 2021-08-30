@@ -5,3 +5,5 @@
 Test task for employment. For limited time, you need to make a prototype mechanic. Dzane interior is a simple game. She spent less than 4 hours of time.
 The code is quickly written, nothing is interesting here. 
 
+## About
+<img src="/Resources/InteriorDesign.gif" width="640" height="360"/>
